@@ -1,0 +1,23 @@
+[columns][url=http://flightrising.com/main.php?dragon=89782585][img]http://flightrising.com/rendern/coliseum/portraits/897826/89782585.png[/img][/url]
+[nextcol][font=Palatino][size=5][color=#850012][b]NAME[/b][/color] · sentence or title here[/size][/font]
+✦ [i]pro/nouns[/i][/columns]
+[center][color=#aaaaaa]─ ── ──────────────────────────────────────────────────── ── ─[/color][/center]
+[columns]
+
+[b]age[/b] ✦ age
+[b]occupation[/b] ✦ role/job
+[b]alignment[/b] ✦ true neutral
+[b]vibes[/b] ✦ vibecheck here
+
+Try to write enough here so the text wraps around and the other column gets pushed all the way to the side. Even if you have to fill it up with absolute nonsense.
+
+Banana apricot peach apple cherry pomegranate lime lemon blueberries raspberries grapes blackberries. Can you tell i like fruit. Pineapple dragonfruit lychee mango papaya tomato strawberry passionfruit nectarine
+[nextcol][center]
+
+[font=Palatino][size=4][b]HOARD[/b][/size][/font]
+
+[item=obsidian gryphon staff]
+[item=crimson rootvine][/center]
+[/columns]
+[center][color=#aaaaaa]─ ── ──────────────────────────────────────────────────── ── ─[/color]
+[size=2][color=#aaaaaa]✦ code by #191542[/color][/size][/center]
