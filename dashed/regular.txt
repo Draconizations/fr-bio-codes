@@ -2,7 +2,7 @@
 [columns][url=http://flightrising.com/main.php?dragon=89782585][img]http://flightrising.com/rendern/coliseum/portraits/897826/89782585.png[/img][/url]
 [nextcol][font=Palatino][size=5][color=#850012][b]NAME[/b][/color] · sentence or title here[/size][/font]
 ✦ [i]pro/nouns[/i][/columns]
-[center][color=#aaaaaa]─ ── ─────────────────────────────────────────────────────── ── ─[/color][/center]
+[center][color=#aaaaaa]─ ── ──────────────────────────────────────────────────── ── ─[/color][/center]
 [columns]
 
 [b]age[/b] ✦ age
@@ -16,9 +16,9 @@ Banana apricot peach apple cherry pomegranate lime lemon blueberries raspberries
 [nextcol][center]
 
 [font=Palatino][size=4][b]INVENTORY[/b][/size][/font]
-[color=transparent]xxxxxxxxxxxxxxxxxxxxxxxx[/color]
+[color=transparent]xxxxxxxxxxxxxxxxxxxxxxxxxx[/color]
 [item=discarded nest material][item=crimson rootvine]
 [item=scarlet yuccaweave][item=obsidian gryphon staff]
 [/columns]
-[center][color=#aaaaaa]─ ── ─────────────────────────────────────────────────────── ── ─[/color]
+[center][color=#aaaaaa]─ ── ──────────────────────────────────────────────────── ── ─[/color]
 [size=2][color=#aaaaaa]✦ code by #191542[/color][/size][/center][nextcol][color=transparent]xxx[/color][/columns]
