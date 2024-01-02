@@ -1,0 +1,9 @@
+[columns][LIST][/LIST][nextcol][LIST][/LIST]
+[emoji=crescent moon 2 size=1] › [i][b]Title or Name[/b][/i]
+... [b]pages:[/b] 1. one, 2. two, 3. three
+[columns][item=Frosted Violets]
+[nextcol][LIST]
+[*] Put whatever you want here
+[*] I usually put lore in these
+[*] But a more practical description works too
+[/LIST][LIST][/LIST][/columns][/columns]
