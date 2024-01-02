@@ -1,0 +1,8 @@
+[columns][LIST][/LIST][nextcol][LIST][/LIST]
+[emoji=crescent moon 2 size=1] › [i][b]Title or Name[/b][/i]
+... [b]pages:[/b] 1. one, 2. two
+
+✦ put whatever you want here
+✦ whether that's lore or practical info
+✦ this list is expandable with more bullets too!
+[LIST][/LIST][/columns]
