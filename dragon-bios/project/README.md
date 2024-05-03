@@ -1,4 +1,4 @@
-# Dashed
+# Project
 A minimalist template for gene projects
 
 **Includes**
