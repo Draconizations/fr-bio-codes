@@ -1,0 +1,20 @@
+[columns][img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=2&bodygene=0&breed=13&element=6&eyetype=12&gender=1&tert=2&tertgene=0&winggene=0&wings=2&auth=1c0949b15b9b60c25ea0717253e318b1741265d3&dummyext=prev.png[/img][nextcol]
+[emoji=silver coin size=1] [size=5][font=Palatino][b]Project Template[/b][/font][/size]
+
+[b]Genes[/b]
+✦ breed: [url=https://www1.flightrising.com/game-database/item/1583]skydancer[/url] [i](3/5/24)[/i]
+
+✦ primary: [url=https://www1.flightrising.com/game-database/item/567]basic[/url] [i](3/5/24)[/i]
+✧ secondary: [url=https://www1.flightrising.com/game-database/item/568]basic[/url]
+✧ tertiary: [url=https://www1.flightrising.com/game-database/item/569]basic[/url]
+
+✧ eyes: [url=https://www1.flightrising.com/game-database/item/39299]pastel[/url]
+⊘ pose: [i]n/a[/i]
+
+[b]Skin[/b]
+⊘ [i]n/a[/i]
+
+[b]Apparel[/b]
+✧ [gamedb item=22047]
+[/columns]
+[right][size=2][color=#aaaaaa]code by #191542[/color][/size][/right]
