@@ -1,0 +1,18 @@
+[columns][url=https://www1.flightrising.com/forums/cc/2519702/2][img]https://i.imgur.com/td63Isl.png[/img][/url][nextcol][font=Palatino][size=5][color=#00915e][b]NAME[/b][/color] · status or flavor text here[/size][/font]
+✦ [i]pro / nouns[/i]
+
+[columns][b]age[/b] · age
+[b]occupation[/b] · role / job
+[nextcol][b]alignment[/b] · true neutral
+[b]vibes[/b] · vibecheck
+[/columns][/columns]
+
+[columns]
+
+
+[center]Try to write enough here so the text wraps around and the other column gets pushed all the way to the side. Even if you have to fill it up with absolute nonsense. 
+
+Banana apricot peach apple cherry pomegranate lime lemon blueberries raspberries grapes blackberries. Can you tell i like fruit. Pineapple dragonfruit lychee mango papaya tomato strawberry passionfruit nectarine[/center]
+[nextcol][item=Pulsating Green Embers]
+[item=Spearmint][/columns]
+[center][size=2][color=#aaaaaa]code by #191542[/color][/size][/center]
