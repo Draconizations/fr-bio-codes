@@ -3,6 +3,8 @@ Another simple layout. This time with a little sidebar on the left.
 
 There are two variations available. One with a section for outfit/gene plans and pricing notes. The other instead has a decorative familiar and a bulleted lore overview in this section.
 
+Vertical sidebars are available in [this thread](https://www1.flightrising.com/forums/gde/3269012), and the one it links to!
+
 **Includes**
 - name
 - title/caption
