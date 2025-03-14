@@ -15,8 +15,11 @@ There are two variations available. One with a section for outfit/gene plans and
 ## Previews
 **Familiar**
 
-tba
+![image](https://github.com/user-attachments/assets/33f70d71-319c-4667-94dc-7e693131189f)
+![image](https://github.com/user-attachments/assets/513f1e71-c67b-49b7-b47e-9dc40dfd471b)
+
 
 **Outfit**
 
-tba
+![image](https://github.com/user-attachments/assets/19b60bc3-0db6-4f0c-8999-da005412d6e4)
+![image](https://github.com/user-attachments/assets/625c866d-aa21-4175-909c-6f70ca0e8f21)
